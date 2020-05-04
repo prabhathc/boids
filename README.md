@@ -1,4 +1,4 @@
 # boids
  
  stage 1:
-![Alt Text](https://imgflip.com/embed/402wlr)
+![Alt Text](https://github.com/prabhathc/boids/blob/master/Demos/stage_1.gif)
