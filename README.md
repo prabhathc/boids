@@ -1,4 +1,4 @@
 # boids
  
  stage 1:
-![Alt Text](https://imgflip.com/gif/402wlr)
+![Alt Text](https://imgflip.com/embed/402wlr)
